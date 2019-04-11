@@ -1,0 +1,33 @@
+{
+  "name": "rss-news-list",
+  "version": "0.0.1",
+  "description": "An open data set of known RSS news sources to facilitate the automatic crawling of news sites",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandenbroucke/rss-news-list.git"
+  },
+  "keywords": [
+    "News",
+    "RSS",
+    "Feed",
+    "Open data",
+    "list",
+    "urls",
+    "sources"
+  ],
+  "author": "Steven Vanden Broucke",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vandenbroucke/rss-news-list/issues"
+  },
+  "homepage": "https://github.com/vandenbroucke/rss-news-list#readme",
+  "dependencies": {
+    "json2csv": "^4.3.2",
+    "json2yaml": "^1.1.0",
+    "string-template": "^1.0.0",
+    "xml-js": "^1.6.8"
+  }
+}
