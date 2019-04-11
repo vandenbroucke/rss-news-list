@@ -20,7 +20,7 @@ You can quickly download the following formatted files from your browser or any 
 JSON|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.json](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.json)
 XML|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.xml](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.xml)
 CSV|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.csv](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.csv)
-YML|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.yml](https://github.com/vandenbroucke/rss-news-list/data/news_list.yml)
+YML|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.yml](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.yml)
 ## News list
 {news_list}
 
