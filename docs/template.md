@@ -14,7 +14,8 @@ Contributing to the news sources (adding, updating & deleting) can be done in th
 
 ## Data URLS
 You can quickly download the following formatted files from your browser or any other project:
-| Format | Quick URL|
+
+|Format|URL|
 |------|-----|
 JSON|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.json](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.json)
 XML|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.xml](https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/news_list.xml)
