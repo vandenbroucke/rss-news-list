@@ -2630,5 +2630,572 @@
     "src_name_long": "VRT NWS",
     "name": "All News",
     "src_country": "BEL"
+  },
+  {
+    "URL": "https://www.economist.com/the-world-this-week/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "World News",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/europe/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Europe",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/britain/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Britain",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/united-states/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "United States",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/the-americas/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "The Americas",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/middle-east-and-africa/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Middle East and Africa",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/asia/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Asia",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/china/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "China",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/international/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "International",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/business/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Business",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/science-and-technology/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Science and technology",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "https://www.economist.com/books-and-arts/rss.xml",
+    "src_name_short": "economist",
+    "src_name_long": "The Economist",
+    "name": "Books and arts",
+    "src_country": "GBR"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/latest",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Latest Headlines",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/most-popular",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Most Popular",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/entertainment",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Entertainment",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/health",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Health",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/section/lifestyle",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Lifestyle",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/opinion",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Opinion",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/politics",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Politics",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/science",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Science",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/tech",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Tech",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/internal/travel/mixed",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "Travel",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/national",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "U.S.",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.foxnews.com/foxnews/world",
+    "src_name_short": "fox",
+    "src_name_long": "Fox News",
+    "name": "World",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://feeds.nbcnews.com/nbcnews/public/news",
+    "src_name_short": "nbcnews",
+    "src_name_long": "NBC News",
+    "name": "All",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/books/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Books",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/business/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Business",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/celebrity/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Celebrity",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/college/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "College",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/comedy/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Comedy",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/crime/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Crime",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/arts/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Culture & Arts",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/divorce/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Divorce",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/education/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Education",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/entertainment/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Entertainment",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/green/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Environment",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/taste/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Food & Drink",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/health/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Health",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/huffpost-home/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Home & Living",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/huffpost-code/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "HuffPost Code",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/huffpost-personal/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "HuffPost Personal",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/impact/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Impact",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/media/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Media",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/money/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Money",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/own/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "OWN",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/opinion/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Opinion",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/parents/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Parenting",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/politics/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Politics",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/fifty/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Post 50",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/relationships/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Relationships",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/religion/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Religion",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/science/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Science",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/sports/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Sports",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/style/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Style & Beauty",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/tv/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "TV & Film",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/technology/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Tech",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/teen/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Teen",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/travel/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Travel",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/us-news/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "U.S. News",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/weddings/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Weddings",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/weird-news/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Weird News",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/healthy-living/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Wellness",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/women/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Women",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/worklife/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "Work/Life",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://www.huffpost.com/section/world-news/feed",
+    "src_name_short": "HUFFPOST",
+    "src_name_long": "Huffington Post",
+    "name": "World News",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&f=rss&_ga=2.61934127.248520087.1564405260-227583218.1564405260",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " All Sections",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=news/local&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Local",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=arts-entertainment*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Entertainment",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://gazette.com/search/?q=&app=calendar&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=calendar*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " ColoradoSprings.com",
+    "src_country": "USA"
+  },
+  {
+    "URL": "https://gazette.com/search/?q=&app=calendar&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=calendar*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Event Calendar",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=dining*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Dining Guide",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=movies*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Cinema Guide",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.coloradosprings.com/common/rss/rss.phpCommunity+and+Culture",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Around Town",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=attractions*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Travel",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=sports*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Sports",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=business*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Business",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=opinion*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Opinion",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=blogs*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " Blogs",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=outthere*&f=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " OutThereColorado.com",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://www.csfreshink.com/activity/log/list?fmt=rss",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " CSFreshInk.com",
+    "src_country": "USA"
+  },
+  {
+    "URL": "http://gazette.com/rss/Parenting",
+    "src_name_short": "gazette",
+    "src_name_long": "The Gazette (Colorado Springs)",
+    "name": " PikesPeakParent.com",
+    "src_country": "USA"
   }
 ]
