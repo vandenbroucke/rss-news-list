@@ -1,7 +1,7 @@
 # RSS-news-list (Open Data)
 A carefully curated list of news sources that provide [RSS](https://en.wikipedia.org/wiki/RSS) news feeds.
 
-> Currently the list contains **458** feed URLs from **53** distinct news sources in **14** countries, and **you can help** to add even more!
+> Currently the list contains **517** feed URLs from **109** distinct news sources in **28** countries, and **you can help** to add even more!
 
 **Contents:** [Data URLs](#data-urls) · [Data properties](#data-properties) · [Contribute](#contribute) · [News list](#news-list)
 
@@ -39,25 +39,39 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Country | Sources | Feeds |
 |---------|--------:|------:|
-| [🇦🇺 Australia (AUS)](#-australia-aus) | 2 | 24 |
-| [🇧🇪 Belgium (BEL)](#-belgium-bel) | 3 | 3 |
-| [🇨🇦 Canada (CAN)](#-canada-can) | 4 | 33 |
-| [🇫🇷 France (FRA)](#-france-fra) | 2 | 13 |
-| [🇩🇪 Germany (DEU)](#-germany-deu) | 1 | 6 |
-| [🇮🇳 India (IND)](#-india-ind) | 1 | 20 |
-| [🇮🇪 Ireland (IRL)](#-ireland-irl) | 1 | 7 |
+| [🇦🇺 Australia (AUS)](#-australia-aus) | 1 | 13 |
+| [🇦🇹 Austria (AUT)](#-austria-aut) | 3 | 9 |
+| [🇧🇪 Belgium (BEL)](#-belgium-bel) | 9 | 10 |
+| [🇨🇦 Canada (CAN)](#-canada-can) | 2 | 10 |
+| [🇨🇿 Czechia (CZE)](#-czechia-cze) | 2 | 2 |
+| [🇩🇰 Denmark (DNK)](#-denmark-dnk) | 2 | 6 |
+| [🇫🇮 Finland (FIN)](#-finland-fin) | 2 | 3 |
+| [🇫🇷 France (FRA)](#-france-fra) | 8 | 44 |
+| [🇩🇪 Germany (DEU)](#-germany-deu) | 10 | 54 |
+| [🇭🇺 Hungary (HUN)](#-hungary-hun) | 2 | 2 |
+| [🇮🇳 India (IND)](#-india-ind) | 1 | 19 |
+| [🇮🇪 Ireland (IRL)](#-ireland-irl) | 4 | 11 |
+| [🇮🇹 Italy (ITA)](#-italy-ita) | 3 | 16 |
 | [🇯🇵 Japan (JPN)](#-japan-jpn) | 1 | 1 |
+| [🇳🇱 Netherlands (NLD)](#-netherlands-nld) | 7 | 19 |
+| [🇳🇴 Norway (NOR)](#-norway-nor) | 3 | 6 |
+| [🇵🇱 Poland (POL)](#-poland-pol) | 3 | 3 |
+| [🇵🇹 Portugal (PRT)](#-portugal-prt) | 3 | 3 |
 | [🇶🇦 Qatar (QAT)](#-qatar-qat) | 1 | 1 |
-| [🇷🇺 Russia (RUS)](#-russia-rus) | 2 | 2 |
-| [🇸🇬 Singapore (SGP)](#-singapore-sgp) | 2 | 21 |
-| [🇿🇦 South Africa (ZAF)](#-south-africa-zaf) | 1 | 12 |
-| [🇬🇧 United Kingdom (GBR)](#-united-kingdom-gbr) | 10 | 127 |
-| [🇺🇸 United States (USA)](#-united-states-usa) | 22 | 188 |
+| [🇷🇴 Romania (ROU)](#-romania-rou) | 2 | 2 |
+| [🇷🇸 Serbia (SRB)](#-serbia-srb) | 1 | 1 |
+| [🇸🇬 Singapore (SGP)](#-singapore-sgp) | 1 | 6 |
+| [🇪🇸 Spain (ESP)](#-spain-esp) | 6 | 25 |
+| [🇸🇪 Sweden (SWE)](#-sweden-swe) | 4 | 7 |
+| [🇨🇭 Switzerland (CHE)](#-switzerland-che) | 3 | 11 |
+| [🇺🇦 Ukraine (UKR)](#-ukraine-ukr) | 1 | 1 |
+| [🇬🇧 United Kingdom (GBR)](#-united-kingdom-gbr) | 7 | 112 |
+| [🇺🇸 United States (USA)](#-united-states-usa) | 17 | 120 |
 
 ### 🇦🇺 Australia (AUS)
 
 <details>
-<summary><b>SMH</b> · Sydney Morning Herald (14 feeds)</summary>
+<summary><b>SMH</b> · Sydney Morning Herald (13 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -67,7 +81,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | World | https://www.smh.com.au/rss/world.xml |
 | National | https://www.smh.com.au/rss/national.xml |
 | Business | https://www.smh.com.au/rss/business.xml |
-| Entertainment | https://www.smh.com.au/rss/entertainment.xml |
 | Technology | https://www.smh.com.au/rss/technology.xml |
 | Environment | https://www.smh.com.au/rss/environment.xml |
 | Lifestyle | https://www.smh.com.au/rss/lifestyle.xml |
@@ -78,50 +91,122 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
+### 🇦🇹 Austria (AUT)
+
 <details>
-<summary><b>TheDailyTelegraph</b> · The Daily Telegraph (10 feeds)</summary>
+<summary><b>ORF</b> · Österreichischer Rundfunk (3 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
-| Breaking News | http://www.dailytelegraph.com.au/news/breaking-news/rss |
-| New South Wales | http://www.dailytelegraph.com.au/news/nsw/rss |
-| National | http://www.dailytelegraph.com.au/news/national/rss |
-| World | http://www.dailytelegraph.com.au/news/world/rss |
-| Business | http://www.dailytelegraph.com.au/business/rss |
-| Business Breaking News | http://www.dailytelegraph.com.au/business/breaking-news/rss |
-| Entertainment | http://www.dailytelegraph.com.au/entertainment/sydney-confidential/rss |
-| Celebrity | http://www.dailytelegraph.com.au/entertainment/celebrity/rss |
-| Music | http://www.dailytelegraph.com.au/entertainment/music/rss |
-| Lifestyle | http://www.dailytelegraph.com.au/lifestyle/rss |
+| News | https://rss.orf.at/news.xml |
+| Sport | https://rss.orf.at/sport.xml |
+| Science | https://rss.orf.at/science.xml |
+
+</details>
+
+<details>
+<summary><b>DerStandard</b> · Der Standard (5 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Alle | https://www.derstandard.at/rss |
+| Inland | https://www.derstandard.at/rss/inland |
+| International | https://www.derstandard.at/rss/international |
+| Wirtschaft | https://www.derstandard.at/rss/wirtschaft |
+| Sport | https://www.derstandard.at/rss/sport |
+
+</details>
+
+<details>
+<summary><b>DiePresse</b> · Die Presse (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Alle | https://www.diepresse.com/rss/ |
 
 </details>
 
 ### 🇧🇪 Belgium (BEL)
 
 <details>
-<summary><b>Europa</b> · Europa (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| Latest Press Releases | https://europa.eu/newsroom/press-releases.xml_en |
-
-</details>
-
-<details>
-<summary><b>TheBrusselsTimes</b> · The Brussels Times (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| All News | http://www.brusselstimes.com/rss-feed?format=feed |
-
-</details>
-
-<details>
-<summary><b>VRTNWS</b> · VRT NWS (1 feed)</summary>
+<summary><b>VRTNWS</b> · VRT NWS (2 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | All News | https://www.vrt.be/vrtnieuws/en.rss.articles.xml |
+| Nieuws (Nederlands) | https://www.vrt.be/vrtnws/nl.rss.articles.xml |
+
+</details>
+
+<details>
+<summary><b>HLN</b> · Het Laatste Nieuws (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Home | https://www.hln.be/home/rss.xml |
+
+</details>
+
+<details>
+<summary><b>DeMorgen</b> · De Morgen (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| In het nieuws | https://www.demorgen.be/in-het-nieuws/rss.xml |
+
+</details>
+
+<details>
+<summary><b>7sur7</b> · 7sur7 (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Home | https://www.7sur7.be/home/rss.xml |
+
+</details>
+
+<details>
+<summary><b>LeSoir</b> · Le Soir (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| À la une | https://www.lesoir.be/rss2/2/cible_principale |
+
+</details>
+
+<details>
+<summary><b>RTBF</b> · Radio-télévision belge de la Communauté française (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Info | https://rss.rtbf.be/article/rss/highlight_rtbfinfo_info.xml?source=internal |
+
+</details>
+
+<details>
+<summary><b>LaLibre</b> · La Libre Belgique (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All articles | https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml |
+
+</details>
+
+<details>
+<summary><b>Politico</b> · Politico Europe (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://www.politico.eu/feed/ |
+
+</details>
+
+<details>
+<summary><b>Euractiv</b> · Euractiv (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://www.euractiv.com/feed/ |
 
 </details>
 
@@ -133,26 +218,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Feed | URL |
 |------|-----|
 | World News | http://www.cbc.ca/cmlink/rss-world |
-
-</details>
-
-<details>
-<summary><b>TheStar</b> · The Toronto Star (12 feeds)</summary>
-
-| Feed | URL |
-|------|-----|
-| Top Stories | http://www.thestar.com/feeds.topstories.rss |
-| All News | http://www.thestar.com/feeds.articles.news.rss |
-| GTA | http://www.thestar.com/feeds.articles.news.gta.rss |
-| Queen's Park | http://www.thestar.com/feeds.articles.news.queenspark.rss |
-| Canada | http://www.thestar.com/feeds.articles.news.canada.rss |
-| World | http://www.thestar.com/feeds.articles.news.world.rss |
-| Investigations | http://www.thestar.com/feeds.articles.news.investigations.rss |
-| Crime | http://www.thestar.com/feeds.articles.news.crime.rss |
-| Business | http://www.thestar.com/feeds.articles.business.rss |
-| Sports | http://www.thestar.com/feeds.articles.sports.rss |
-| Entertainment | http://www.thestar.com/feeds.articles.entertainment.rss |
-| Life | http://www.thestar.com/feeds.articles.life.rss |
 
 </details>
 
@@ -173,33 +238,80 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
+### 🇨🇿 Czechia (CZE)
+
 <details>
-<summary><b>CTVNews</b> · CTVNews (11 feeds)</summary>
+<summary><b>CT24</b> · ČT24 (Česká televize) (1 feed)</summary>
 
 | Feed | URL |
 |------|-----|
-| Top Stories | http://ctvnews.ca/rss/TopStories |
-| Canada Headlines | http://ctvnews.ca/rss/Canada |
-| World Headlines | http://www.ctvnews.ca/rss/World |
-| Entertainment Headlines | http://www.ctvnews.ca/rss/CTVNewsEnt |
-| Politics Headlines | http://www.ctvnews.ca/rss/Politics |
-| Lifestyle | http://www.ctvnews.ca/rss/lifestyle/ctv-news-lifestyle-1.3407722 |
-| Business Headlines | http://www.ctvnews.ca/rss/business/ctv-news-business-headlines-1.867648 |
-| Science & Tech Headlines | http://www.ctvnews.ca/rss/SciTech |
-| Sports | http://www.ctvnews.ca/rss/sports/ctv-news-sports-1.3407726 |
-| Health Headlines | http://www.ctvnews.ca/rss/Health |
-| Autos | http://www.ctvnews.ca/rss/autos/ctv-news-autos-1.867636 |
+| Hlavní zprávy | https://ct24.ceskatelevize.cz/rss/hlavni-zpravy |
+
+</details>
+
+<details>
+<summary><b>iROZHLAS</b> · iROZHLAS (Český rozhlas) (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Zprávy | https://www.irozhlas.cz/rss/irozhlas |
+
+</details>
+
+### 🇩🇰 Denmark (DNK)
+
+<details>
+<summary><b>DR</b> · Danmarks Radio (5 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Alle nyheder | https://www.dr.dk/nyheder/service/feeds/allenyheder |
+| Indland | https://www.dr.dk/nyheder/service/feeds/indland |
+| Udland | https://www.dr.dk/nyheder/service/feeds/udland |
+| Penge | https://www.dr.dk/nyheder/service/feeds/penge |
+| Sporten | https://www.dr.dk/nyheder/service/feeds/sporten |
+
+</details>
+
+<details>
+<summary><b>Politiken</b> · Politiken (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Seneste nyt | https://politiken.dk/rss/senestenyt.rss |
+
+</details>
+
+### 🇫🇮 Finland (FIN)
+
+<details>
+<summary><b>Yle</b> · Yleisradio (2 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Pääuutiset | https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss |
+| News (English) | https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NEWS |
+
+</details>
+
+<details>
+<summary><b>HS</b> · Helsingin Sanomat (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Tuoreimmat | https://www.hs.fi/rss/tuoreimmat.xml |
 
 </details>
 
 ### 🇫🇷 France (FRA)
 
 <details>
-<summary><b>Euronews</b> · Euronews (1 feed)</summary>
+<summary><b>Euronews</b> · Euronews (2 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | Small Business | http://feeds.feedburner.com/euronews/en/home/ |
+| News (English) | https://www.euronews.com/rss?format=mrss&level=theme&name=news |
 
 </details>
 
@@ -223,10 +335,88 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
+<details>
+<summary><b>LeMonde</b> · Le Monde (12 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| À la une | https://www.lemonde.fr/rss/une.xml |
+| International | https://www.lemonde.fr/international/rss_full.xml |
+| Europe | https://www.lemonde.fr/europe/rss_full.xml |
+| Politique | https://www.lemonde.fr/politique/rss_full.xml |
+| Économie | https://www.lemonde.fr/economie/rss_full.xml |
+| Société | https://www.lemonde.fr/societe/rss_full.xml |
+| Culture | https://www.lemonde.fr/culture/rss_full.xml |
+| Sport | https://www.lemonde.fr/sport/rss_full.xml |
+| Sciences | https://www.lemonde.fr/sciences/rss_full.xml |
+| Pixels | https://www.lemonde.fr/pixels/rss_full.xml |
+| Planète | https://www.lemonde.fr/planete/rss_full.xml |
+| English | https://www.lemonde.fr/en/rss/une.xml |
+
+</details>
+
+<details>
+<summary><b>LeFigaro</b> · Le Figaro (7 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Actualités | https://www.lefigaro.fr/rss/figaro_actualites.xml |
+| Politique | https://www.lefigaro.fr/rss/figaro_politique.xml |
+| International | https://www.lefigaro.fr/rss/figaro_international.xml |
+| Économie | https://www.lefigaro.fr/rss/figaro_economie.xml |
+| Sport | https://www.lefigaro.fr/rss/figaro_sport.xml |
+| Culture | https://www.lefigaro.fr/rss/figaro_culture.xml |
+| Sciences | https://www.lefigaro.fr/rss/figaro_sciences.xml |
+
+</details>
+
+<details>
+<summary><b>franceinfo</b> · franceinfo (France Télévisions) (7 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Les titres | https://www.francetvinfo.fr/titres.rss |
+| Monde | https://www.francetvinfo.fr/monde.rss |
+| Politique | https://www.francetvinfo.fr/politique.rss |
+| Économie | https://www.francetvinfo.fr/economie.rss |
+| Sports | https://www.francetvinfo.fr/sports.rss |
+| Culture | https://www.francetvinfo.fr/culture.rss |
+| Santé | https://www.francetvinfo.fr/sante.rss |
+
+</details>
+
+<details>
+<summary><b>Liberation</b> · Libération (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All articles | https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml |
+
+</details>
+
+<details>
+<summary><b>20Minutes</b> · 20 Minutes (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| À la une | https://www.20minutes.fr/feeds/rss-une.xml |
+
+</details>
+
+<details>
+<summary><b>RFI</b> · Radio France Internationale (2 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| English | https://www.rfi.fr/en/rss |
+| Français | https://www.rfi.fr/fr/rss |
+
+</details>
+
 ### 🇩🇪 Germany (DEU)
 
 <details>
-<summary><b>Spiegel</b> · Spiegel Online (6 feeds)</summary>
+<summary><b>Spiegel</b> · Spiegel Online (14 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -236,13 +426,153 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | World News | http://www.spiegel.de/international/world/index.rss |
 | Business News | http://www.spiegel.de/international/business/index.rss |
 | Zeitgeist | http://www.spiegel.de/international/zeitgeist/index.rss |
+| Politik | https://www.spiegel.de/politik/index.rss |
+| Ausland | https://www.spiegel.de/ausland/index.rss |
+| Wirtschaft | https://www.spiegel.de/wirtschaft/index.rss |
+| Panorama | https://www.spiegel.de/panorama/index.rss |
+| Sport | https://www.spiegel.de/sport/index.rss |
+| Kultur | https://www.spiegel.de/kultur/index.rss |
+| Netzwelt | https://www.spiegel.de/netzwelt/index.rss |
+| Wissenschaft | https://www.spiegel.de/wissenschaft/index.rss |
+
+</details>
+
+<details>
+<summary><b>DW</b> · Deutsche Welle (9 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| All | https://rss.dw.com/rdf/rss-en-all |
+| Top stories | https://rss.dw.com/rdf/rss-en-top |
+| World | https://rss.dw.com/rdf/rss-en-world |
+| Europe | https://rss.dw.com/rdf/rss-en-eu |
+| Germany | https://rss.dw.com/rdf/rss-en-ger |
+| Business | https://rss.dw.com/rdf/rss-en-bus |
+| Culture | https://rss.dw.com/rdf/rss-en-cul |
+| Sports | https://rss.dw.com/rdf/rss-en-sports |
+| Nachrichten (Deutsch) | https://rss.dw.com/rdf/rss-de-all |
+
+</details>
+
+<details>
+<summary><b>Tagesschau</b> · Tagesschau (ARD) (6 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Startseite | https://www.tagesschau.de/index~rss2.xml |
+| Inland | https://www.tagesschau.de/inland/index~rss2.xml |
+| Ausland | https://www.tagesschau.de/ausland/index~rss2.xml |
+| Wirtschaft | https://www.tagesschau.de/wirtschaft/index~rss2.xml |
+| Wissen | https://www.tagesschau.de/wissen/index~rss2.xml |
+| Investigativ | https://www.tagesschau.de/investigativ/index~rss2.xml |
+
+</details>
+
+<details>
+<summary><b>Zeit</b> · Die Zeit (6 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Startseite | https://newsfeed.zeit.de/index |
+| Politik | https://newsfeed.zeit.de/politik/index |
+| Wirtschaft | https://newsfeed.zeit.de/wirtschaft/index |
+| Gesellschaft | https://newsfeed.zeit.de/gesellschaft/index |
+| Digital | https://newsfeed.zeit.de/digital/index |
+| Sport | https://newsfeed.zeit.de/sport/index |
+
+</details>
+
+<details>
+<summary><b>FAZ</b> · Frankfurter Allgemeine Zeitung (6 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Aktuell | https://www.faz.net/rss/aktuell/ |
+| Politik | https://www.faz.net/rss/aktuell/politik/ |
+| Wirtschaft | https://www.faz.net/rss/aktuell/wirtschaft/ |
+| Feuilleton | https://www.faz.net/rss/aktuell/feuilleton/ |
+| Sport | https://www.faz.net/rss/aktuell/sport/ |
+| Wissen | https://www.faz.net/rss/aktuell/wissen/ |
+
+</details>
+
+<details>
+<summary><b>SZ</b> · Süddeutsche Zeitung (5 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Topthemen | https://rss.sueddeutsche.de/rss/Topthemen |
+| Politik | https://rss.sueddeutsche.de/rss/Politik |
+| Wirtschaft | https://rss.sueddeutsche.de/rss/Wirtschaft |
+| Sport | https://rss.sueddeutsche.de/rss/Sport |
+| Kultur | https://rss.sueddeutsche.de/rss/Kultur |
+
+</details>
+
+<details>
+<summary><b>Welt</b> · Die Welt (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Topnews | https://www.welt.de/feeds/topnews.rss |
+| Politik | https://www.welt.de/feeds/section/politik.rss |
+| Wirtschaft | https://www.welt.de/feeds/section/wirtschaft.rss |
+| Sport | https://www.welt.de/feeds/section/sport.rss |
+
+</details>
+
+<details>
+<summary><b>Handelsblatt</b> · Handelsblatt (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Top-Themen | https://www.handelsblatt.com/contentexport/feed/top-themen |
+
+</details>
+
+<details>
+<summary><b>n-tv</b> · n-tv (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Nachrichten | https://www.n-tv.de/rss |
+
+</details>
+
+<details>
+<summary><b>heise</b> · heise online (2 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| News | https://www.heise.de/rss/heise-atom.xml |
+| Top-News | https://www.heise.de/rss/heise-top-atom.xml |
+
+</details>
+
+### 🇭🇺 Hungary (HUN)
+
+<details>
+<summary><b>HungaryToday</b> · Hungary Today (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://hungarytoday.hu/feed/ |
+
+</details>
+
+<details>
+<summary><b>Telex</b> · Telex (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Friss | https://telex.hu/rss |
 
 </details>
 
 ### 🇮🇳 India (IND)
 
 <details>
-<summary><b>IndiaTimes</b> · India Times (20 feeds)</summary>
+<summary><b>IndiaTimes</b> · India Times (19 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -264,7 +594,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Entertainment | http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms |
 | Life & Style | http://timesofindia.indiatimes.com/rssfeeds/2886704.cms |
 | Most Read | http://timesofindia.indiatimes.com/rssfeedmostread.cms |
-| Most Shared | http://timesofindia.indiatimes.com/rssfeedmostemailed.cms |
 | Most Commented | http://timesofindia.indiatimes.com/rssfeedmostcommented.cms |
 
 </details>
@@ -272,7 +601,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 ### 🇮🇪 Ireland (IRL)
 
 <details>
-<summary><b>BreakingNews</b> · Breaking News (7 feeds)</summary>
+<summary><b>BreakingNews</b> · Breaking News (5 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -281,8 +610,78 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | World | http://feeds.breakingnews.ie/bnworld |
 | Business | http://feeds.breakingnews.ie/bnbusiness |
 | #Discover | http://feeds.breakingnews.ie/bndiscover |
-| Bizarre | http://feeds.breakingnews.ie/bnbizarre |
-| Entertainment | http://feeds.breakingnews.ie/bnents |
+
+</details>
+
+<details>
+<summary><b>RTE</b> · Raidió Teilifís Éireann (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| News | https://www.rte.ie/feeds/rss/?index=/news/ |
+| Sport | https://www.rte.ie/feeds/rss/?index=/sport/ |
+| Business | https://www.rte.ie/feeds/rss/?index=/news/business/ |
+| Entertainment | https://www.rte.ie/feeds/rss/?index=/entertainment/ |
+
+</details>
+
+<details>
+<summary><b>IrishIndependent</b> · Irish Independent (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://www.independent.ie/rss |
+
+</details>
+
+<details>
+<summary><b>IrishExaminer</b> · Irish Examiner (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Top news | https://www.irishexaminer.com/feed/35-top_news.xml |
+
+</details>
+
+### 🇮🇹 Italy (ITA)
+
+<details>
+<summary><b>ANSA</b> · Agenzia Nazionale Stampa Associata (8 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Ultima ora | https://www.ansa.it/sito/ansait_rss.xml |
+| Top news | https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml |
+| Mondo | https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml |
+| Politica | https://www.ansa.it/sito/notizie/politica/politica_rss.xml |
+| Economia | https://www.ansa.it/sito/notizie/economia/economia_rss.xml |
+| Sport | https://www.ansa.it/sito/notizie/sport/sport_rss.xml |
+| Cultura | https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml |
+| English | https://www.ansa.it/english/news/english_nr_rss.xml |
+
+</details>
+
+<details>
+<summary><b>Repubblica</b> · La Repubblica (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Homepage | https://www.repubblica.it/rss/homepage/rss2.0.xml |
+| Esteri | https://www.repubblica.it/rss/esteri/rss2.0.xml |
+| Politica | https://www.repubblica.it/rss/politica/rss2.0.xml |
+| Economia | https://www.repubblica.it/rss/economia/rss2.0.xml |
+
+</details>
+
+<details>
+<summary><b>Sole24Ore</b> · Il Sole 24 Ore (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Italia | https://www.ilsole24ore.com/rss/italia.xml |
+| Mondo | https://www.ilsole24ore.com/rss/mondo.xml |
+| Economia | https://www.ilsole24ore.com/rss/economia.xml |
+| Finanza | https://www.ilsole24ore.com/rss/finanza.xml |
 
 </details>
 
@@ -297,6 +696,173 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
+### 🇳🇱 Netherlands (NLD)
+
+<details>
+<summary><b>NOS</b> · Nederlandse Omroep Stichting (8 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Algemeen | https://feeds.nos.nl/nosnieuwsalgemeen |
+| Binnenland | https://feeds.nos.nl/nosnieuwsbinnenland |
+| Buitenland | https://feeds.nos.nl/nosnieuwsbuitenland |
+| Politiek | https://feeds.nos.nl/nosnieuwspolitiek |
+| Economie | https://feeds.nos.nl/nosnieuwseconomie |
+| Tech | https://feeds.nos.nl/nosnieuwstech |
+| Cultuur en media | https://feeds.nos.nl/nosnieuwscultuurenmedia |
+| Sport | https://feeds.nos.nl/nossportalgemeen |
+
+</details>
+
+<details>
+<summary><b>NU.nl</b> · NU.nl (6 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Algemeen | https://www.nu.nl/rss/Algemeen |
+| Binnenland | https://www.nu.nl/rss/Binnenland |
+| Buitenland | https://www.nu.nl/rss/Buitenland |
+| Economie | https://www.nu.nl/rss/Economie |
+| Sport | https://www.nu.nl/rss/Sport |
+| Tech | https://www.nu.nl/rss/Tech |
+
+</details>
+
+<details>
+<summary><b>Volkskrant</b> · de Volkskrant (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Voorpagina | https://www.volkskrant.nl/voorpagina/rss.xml |
+
+</details>
+
+<details>
+<summary><b>Trouw</b> · Trouw (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Voorpagina | https://www.trouw.nl/voorpagina/rss.xml |
+
+</details>
+
+<details>
+<summary><b>NRC</b> · NRC (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Alle artikelen | https://www.nrc.nl/rss/ |
+
+</details>
+
+<details>
+<summary><b>DutchNews</b> · DutchNews.nl (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://www.dutchnews.nl/feed/ |
+
+</details>
+
+<details>
+<summary><b>RTLNieuws</b> · RTL Nieuws (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Nieuws | https://www.rtlnieuws.nl/rss.xml |
+
+</details>
+
+### 🇳🇴 Norway (NOR)
+
+<details>
+<summary><b>NRK</b> · Norsk rikskringkasting (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Toppsaker | https://www.nrk.no/toppsaker.rss |
+| Siste nytt | https://www.nrk.no/nyheter/siste.rss |
+| Urix (utenriks) | https://www.nrk.no/urix/toppsaker.rss |
+| Sport | https://www.nrk.no/sport/toppsaker.rss |
+
+</details>
+
+<details>
+<summary><b>VG</b> · Verdens Gang (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Forsiden | https://www.vg.no/rss/feed/ |
+
+</details>
+
+<details>
+<summary><b>Aftenposten</b> · Aftenposten (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Siste | https://www.aftenposten.no/rss |
+
+</details>
+
+### 🇵🇱 Poland (POL)
+
+<details>
+<summary><b>NotesFromPoland</b> · Notes from Poland (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://notesfrompoland.com/feed/ |
+
+</details>
+
+<details>
+<summary><b>TVN24</b> · TVN24 (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Najnowsze | https://tvn24.pl/najnowsze.xml |
+
+</details>
+
+<details>
+<summary><b>Rzeczpospolita</b> · Rzeczpospolita (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Najnowsze | https://www.rp.pl/rss_main |
+
+</details>
+
+### 🇵🇹 Portugal (PRT)
+
+<details>
+<summary><b>Publico</b> · Público (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Últimas | https://feeds.feedburner.com/PublicoRSS |
+
+</details>
+
+<details>
+<summary><b>RTP</b> · Rádio e Televisão de Portugal (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Notícias | https://www.rtp.pt/noticias/rss |
+
+</details>
+
+<details>
+<summary><b>Observador</b> · Observador (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Últimas | https://observador.pt/feed/ |
+
+</details>
+
 ### 🇶🇦 Qatar (QAT)
 
 <details>
@@ -308,23 +874,34 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### 🇷🇺 Russia (RUS)
+### 🇷🇴 Romania (ROU)
 
 <details>
-<summary><b>Sputnik</b> · Sputnik International (1 feed)</summary>
+<summary><b>Digi24</b> · Digi24 (1 feed)</summary>
 
 | Feed | URL |
 |------|-----|
-| World | https://sputniknews.com/export/rss2/world/index.xml |
+| Ultimele știri | https://www.digi24.ro/rss |
 
 </details>
 
 <details>
-<summary><b>RT</b> · RT (1 feed)</summary>
+<summary><b>RomaniaInsider</b> · Romania Insider (1 feed)</summary>
 
 | Feed | URL |
 |------|-----|
-| World News | https://www.rt.com/rss/news/ |
+| All news | https://www.romania-insider.com/feed |
+
+</details>
+
+### 🇷🇸 Serbia (SRB)
+
+<details>
+<summary><b>BalkanInsight</b> · Balkan Insight (BIRN) (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://balkaninsight.com/feed/ |
 
 </details>
 
@@ -344,48 +921,167 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
+### 🇪🇸 Spain (ESP)
+
 <details>
-<summary><b>TodayOnline</b> · Today Online (15 feeds)</summary>
+<summary><b>ElPais</b> · El País (8 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
-| HotNews | http://www.todayonline.com/hot-news/feed |
-| Commentary | http://www.todayonline.com/feed/commentary |
-| Voices | http://www.todayonline.com/feed/voices |
-| Singapore | http://www.todayonline.com/feed/singapore |
-| DailyFocus | http://www.todayonline.com/feed/daily-focus |
-| China& India | http://www.todayonline.com/feed/china&india |
-| World | http://www.todayonline.com/feed/world |
-| Business | http://www.todayonline.com/feed/business |
-| Tech | http://www.todayonline.com/feed/tech |
-| Sports | http://www.todayonline.com/feed/sports |
-| Entertainment | http://www.todayonline.com/feed/entertainment |
-| Lifestyle | http://www.todayonline.com/feed/lifestyle |
-| Blogs | http://www.todayonline.com/feed/blogs |
-| Photos | http://www.todayonline.com/media_feed/photo_gallery |
-| Videos | http://www.todayonline.com/media_feed/video |
+| Portada | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada |
+| Internacional | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada |
+| España | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada |
+| Economía | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada |
+| Deportes | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada |
+| Cultura | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada |
+| Tecnología | https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada |
+| English | https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada |
 
 </details>
 
-### 🇿🇦 South Africa (ZAF)
-
 <details>
-<summary><b>News24</b> · News24 (12 feeds)</summary>
+<summary><b>ElMundo</b> · El Mundo (5 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
-| Top Stories | http://feeds.news24.com/articles/News24/TopStories/rss |
-| South Africa | http://feeds.news24.com/articles/News24/SouthAfrica/rss |
-| Africa | http://feeds.news24.com/articles/News24/Africa/rss |
-| Zimbabwe | http://feeds.news24.com/articles/News24/Africa/Zimbabwe/rss |
-| World | http://feeds.news24.com/articles/News24/World/rss |
-| Sci-Tech | http://feeds.news24.com/articles/News24/SciTech/rss |
-| Sport | http://feeds.24.com/articles/sport/featured/topstories/rss |
-| Entertainment | http://feeds.news24.com/articles/News24/Entertainment/rss |
-| Opinions | http://feeds.news24.com/articles/News24/Opinions/rss |
-| MyNews24 | http://feeds.news24.com/articles/News24/MyNews24/rss |
-| Finance | http://www.fin24.com/dataclients/newsclients/Fin24Rss.aspx |
-| Property | http://www.property24.com/Property24/Property24RSS/GetRss.aspx |
+| Portada | https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml |
+| España | https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml |
+| Internacional | https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml |
+| Economía | https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml |
+| Cultura | https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml |
+
+</details>
+
+<details>
+<summary><b>ABC</b> · ABC (España) (5 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Portada | https://www.abc.es/rss/2.0/portada/ |
+| España | https://www.abc.es/rss/2.0/espana/ |
+| Internacional | https://www.abc.es/rss/2.0/internacional/ |
+| Economía | https://www.abc.es/rss/2.0/economia/ |
+| Deportes | https://www.abc.es/rss/2.0/deportes/ |
+
+</details>
+
+<details>
+<summary><b>LaVanguardia</b> · La Vanguardia (5 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Home | https://www.lavanguardia.com/rss/home.xml |
+| Internacional | https://www.lavanguardia.com/rss/internacional.xml |
+| Política | https://www.lavanguardia.com/rss/politica.xml |
+| Economía | https://www.lavanguardia.com/rss/economia.xml |
+| Deportes | https://www.lavanguardia.com/rss/deportes.xml |
+
+</details>
+
+<details>
+<summary><b>20minutos</b> · 20minutos (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Portada | https://www.20minutos.es/rss/ |
+
+</details>
+
+<details>
+<summary><b>elDiario</b> · elDiario.es (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Portada | https://www.eldiario.es/rss/ |
+
+</details>
+
+### 🇸🇪 Sweden (SWE)
+
+<details>
+<summary><b>SVT</b> · Sveriges Television (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Nyheter | https://www.svt.se/nyheter/rss.xml |
+| Inrikes | https://www.svt.se/nyheter/inrikes/rss.xml |
+| Utrikes | https://www.svt.se/nyheter/utrikes/rss.xml |
+| Sport | https://www.svt.se/sport/rss.xml |
+
+</details>
+
+<details>
+<summary><b>DN</b> · Dagens Nyheter (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Senaste | https://www.dn.se/rss/ |
+
+</details>
+
+<details>
+<summary><b>Aftonbladet</b> · Aftonbladet (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Senaste nytt | https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/ |
+
+</details>
+
+<details>
+<summary><b>SverigesRadio</b> · Sveriges Radio (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Ekot | https://api.sr.se/api/rss/program/83 |
+
+</details>
+
+### 🇨🇭 Switzerland (CHE)
+
+<details>
+<summary><b>SRF</b> · Schweizer Radio und Fernsehen (4 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| News | https://www.srf.ch/news/bnf/rss/1646 |
+| Schweiz | https://www.srf.ch/news/bnf/rss/1890 |
+| International | https://www.srf.ch/news/bnf/rss/1922 |
+| Wirtschaft | https://www.srf.ch/news/bnf/rss/1926 |
+
+</details>
+
+<details>
+<summary><b>NZZ</b> · Neue Zürcher Zeitung (6 feeds)</summary>
+
+| Feed | URL |
+|------|-----|
+| Neueste | https://www.nzz.ch/recent.rss |
+| International | https://www.nzz.ch/international.rss |
+| Schweiz | https://www.nzz.ch/schweiz.rss |
+| Wirtschaft | https://www.nzz.ch/wirtschaft.rss |
+| Feuilleton | https://www.nzz.ch/feuilleton.rss |
+| Sport | https://www.nzz.ch/sport.rss |
+
+</details>
+
+<details>
+<summary><b>LeTemps</b> · Le Temps (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Articles | https://www.letemps.ch/articles.rss |
+
+</details>
+
+### 🇺🇦 Ukraine (UKR)
+
+<details>
+<summary><b>UkrainskaPravda</b> · Ukrainska Pravda (English) (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| All news | https://www.pravda.com.ua/eng/rss/ |
 
 </details>
 
@@ -420,49 +1116,38 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>Reuters</b> · Reuters (16 feeds)</summary>
-
-| Feed | URL |
-|------|-----|
-| Arts | http://feeds.reuters.com/news/artsculture |
-| Business | http://feeds.reuters.com/reuters/businessNews |
-| Company News | http://feeds.reuters.com/reuters/companyNews |
-| Entertainment | http://feeds.reuters.com/reuters/entertainment |
-| Health News | http://feeds.reuters.com/reuters/healthNews |
-| Lifestyle | http://feeds.reuters.com/reuters/lifestyle |
-| Money | http://feeds.reuters.com/news/wealth |
-| Oddly Enough | http://feeds.reuters.com/reuters/oddlyEnoughNews |
-| People | http://feeds.reuters.com/reuters/peopleNews |
-| Politics | http://feeds.reuters.com/Reuters/PoliticsNews |
-| Science | http://feeds.reuters.com/reuters/scienceNews |
-| Sports | http://feeds.reuters.com/reuters/sportsNews |
-| Technology | http://feeds.reuters.com/reuters/technologyNews |
-| Top News | http://feeds.reuters.com/reuters/topNews |
-| US News | http://feeds.reuters.com/Reuters/domesticNews |
-| World | http://feeds.reuters.com/Reuters/worldNews |
-
-</details>
-
-<details>
-<summary><b>TheGuardian</b> · The Guardian (1 feed)</summary>
+<summary><b>TheGuardian</b> · The Guardian (10 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | World News | https://www.theguardian.com/world/rss |
+| UK news | https://www.theguardian.com/uk-news/rss |
+| Europe | https://www.theguardian.com/world/europe-news/rss |
+| Politics | https://www.theguardian.com/politics/rss |
+| Business | https://www.theguardian.com/business/rss |
+| Technology | https://www.theguardian.com/technology/rss |
+| Environment | https://www.theguardian.com/environment/rss |
+| Science | https://www.theguardian.com/science/rss |
+| Sport | https://www.theguardian.com/sport/rss |
+| Culture | https://www.theguardian.com/culture/rss |
 
 </details>
 
 <details>
-<summary><b>TheIndependent</b> · The Independent (1 feed)</summary>
+<summary><b>TheIndependent</b> · The Independent (5 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | World News | http://www.independent.co.uk/news/world/rss |
+| UK | https://www.independent.co.uk/news/uk/rss |
+| Europe | https://www.independent.co.uk/news/world/europe/rss |
+| Business | https://www.independent.co.uk/news/business/rss |
+| Sport | https://www.independent.co.uk/sport/rss |
 
 </details>
 
 <details>
-<summary><b>DailyExpress</b> · Daily Express (65 feeds)</summary>
+<summary><b>DailyExpress</b> · Daily Express (56 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -474,9 +1159,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Politics | https://www.express.co.uk/posts/rss/139/politics |
 | Science | https://www.express.co.uk/posts/rss/151/science |
 | Weather | https://www.express.co.uk/posts/rss/153/weather |
-| Scotland | https://www.express.co.uk/posts/rss/57/scotland |
 | Nature | https://www.express.co.uk/posts/rss/128/nature |
-| Sunday | https://www.express.co.uk/posts/rss/54/sunday |
 | History | https://www.express.co.uk/posts/rss/141/history |
 | Obituaries | https://www.express.co.uk/posts/rss/140/obituaries |
 | Clarifications and Corrections | https://www.express.co.uk/posts/rss/149/clarificationsandcorrections |
@@ -490,15 +1173,12 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Rugby | https://www.express.co.uk/posts/rss/69/rugby |
 | Boxing | https://www.express.co.uk/posts/rss/102/boxing |
 | Golf | https://www.express.co.uk/posts/rss/71/golf |
-| WWE | https://www.express.co.uk/posts/rss/171/wwe |
 | NFL | https://www.express.co.uk/posts/rss/172/nfl |
 | UFC | https://www.express.co.uk/posts/rss/167/ufc |
 | Cricket | https://www.express.co.uk/posts/rss/68/cricket |
 | Other | https://www.express.co.uk/posts/rss/4/other |
 | NBA | https://www.express.co.uk/posts/rss/170/nba |
 | Racing | https://www.express.co.uk/posts/rss/74/racing |
-| Comment | https://www.express.co.uk/posts/rss/16/comment |
-| Columnists | https://www.express.co.uk/posts/rss/40/columnists |
 | Express Comment | https://www.express.co.uk/posts/rss/41/expresscomment |
 | Finance | https://www.express.co.uk/posts/rss/21/finance |
 | City & Business | https://www.express.co.uk/posts/rss/22/citybusiness |
@@ -527,10 +1207,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Food | https://www.express.co.uk/posts/rss/14/food |
 | Tech | https://www.express.co.uk/posts/rss/59/tech |
 | Diets | https://www.express.co.uk/posts/rss/126/diets |
-| Win | https://www.express.co.uk/posts/rss/138/win |
-| Top 10 Facts | https://www.express.co.uk/posts/rss/109/top10facts |
-| Pictures | https://www.express.co.uk/posts/rss/105/pictures |
-| Videos | https://www.express.co.uk/posts/rss/137/videos |
 
 </details>
 
@@ -540,15 +1216,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Feed | URL |
 |------|-----|
 | World News | http://www.mirror.co.uk/news/world-news/rss.xml |
-
-</details>
-
-<details>
-<summary><b>TheSun</b> · The Sun (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| World News | https://www.thesun.co.uk/news/worldnews/feed |
 
 </details>
 
@@ -570,16 +1237,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>EveningExpress</b> · Evening Express (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| All News | http://www.eveningexpress.co.uk/feed/ |
-
-</details>
-
-<details>
-<summary><b>economist</b> · The Economist (12 feeds)</summary>
+<summary><b>economist</b> · The Economist (11 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -594,39 +1252,10 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | International | https://www.economist.com/international/rss.xml |
 | Business | https://www.economist.com/business/rss.xml |
 | Science and technology | https://www.economist.com/science-and-technology/rss.xml |
-| Books and arts | https://www.economist.com/books-and-arts/rss.xml |
 
 </details>
 
 ### 🇺🇸 United States (USA)
-
-<details>
-<summary><b>CNN</b> · Cable News Network (20 feeds)</summary>
-
-| Feed | URL |
-|------|-----|
-| Top Stories | http://rss.cnn.com/rss/edition.rss |
-| World | http://rss.cnn.com/rss/edition_world.rss |
-| Africa | http://rss.cnn.com/rss/edition_africa.rss |
-| Americas | http://rss.cnn.com/rss/edition_americas.rss |
-| Asia | http://rss.cnn.com/rss/edition_asia.rss |
-| Europe | http://rss.cnn.com/rss/edition_europe.rss |
-| Middle East | http://rss.cnn.com/rss/edition_meast.rss |
-| U.S. | http://rss.cnn.com/rss/edition_us.rss |
-| Money | http://rss.cnn.com/rss/money_news_international.rss |
-| Technology | http://rss.cnn.com/rss/edition_technology.rss |
-| Space | http://rss.cnn.com/rss/edition_space.rss |
-| Entertainment | http://rss.cnn.com/rss/edition_entertainment.rss |
-| Entertainment | http://rss.cnn.com/rss/edition_sport.rss |
-| Football | http://rss.cnn.com/rss/edition_football.rss |
-| Golf | http://rss.cnn.com/rss/edition_golf.rss |
-| Motorsport | http://rss.cnn.com/rss/edition_motorsport.rss |
-| Tennis | http://rss.cnn.com/rss/edition_tennis.rss |
-| Travel | http://rss.cnn.com/rss/edition_travel.rss |
-| Video | http://rss.cnn.com/rss/cnn_freeviceo.rss |
-| Most Recent | http://rss.cnn.com/rss/cnn_latest.rss |
-
-</details>
 
 <details>
 <summary><b>CNBC</b> · Consumer News and Business Channel (21 feeds)</summary>
@@ -658,7 +1287,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>NYT</b> · New York Times (22 feeds)</summary>
+<summary><b>NYT</b> · New York Times (21 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -678,21 +1307,11 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | DealBook | https://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml |
 | Media & Advertising | https://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml |
 | Technology | http://feeds.nytimes.com/nyt/rss/Technology |
-| Sports | https://www.nytimes.com/services/xml/rss/nyt/Sports.xml |
 | Baseball | https://www.nytimes.com/services/xml/rss/nyt/Baseball.xml |
 | Golf | https://www.nytimes.com/services/xml/rss/nyt/Golf.xml |
 | Hockey | https://www.nytimes.com/services/xml/rss/nyt/Hockey.xml |
 | Soccer | https://www.nytimes.com/services/xml/rss/nyt/Soccer.xml |
 | Tennis | https://www.nytimes.com/services/xml/rss/nyt/Tennis.xml |
-
-</details>
-
-<details>
-<summary><b>Yahoo</b> · Yahoo (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| World | https://www.yahoo.com/news/rss/world |
 
 </details>
 
@@ -719,16 +1338,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Feed | URL |
 |------|-----|
-| All News | http://defence-blog.com/feed |
-
-</details>
-
-<details>
-<summary><b>WashingtonPost</b> · Washington Post (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| World News | http://feeds.washingtonpost.com/rss/world |
+| All News | https://defence-blog.com/feed/ |
 
 </details>
 
@@ -742,17 +1352,15 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>Time</b> · Time (12 feeds)</summary>
+<summary><b>Time</b> · Time (10 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | Top Stories | http://feeds2.feedburner.com/time/topstories |
-| Most Viewed | http://feeds2.feedburner.com/time/mostviewed |
 | Most Emailed | http://feeds2.feedburner.com/time/mostemailed |
 | NewsFeed | http://feeds.feedburner.com/time/newsfeed |
 | U.S. | http://feeds2.feedburner.com/time/nation |
 | Swampland | http://feeds.feedburner.com/timeblogs/swampland |
-| World | http://feeds2.feedburner.com/time/world |
 | Business | http://feeds2.feedburner.com/time/business |
 | Techland | http://feeds.feedburner.com/timeblogs/nerd_world |
 | Healthland | http://feeds.feedburner.com/time/healthland |
@@ -762,7 +1370,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>CBS</b> · CBS (10 feeds)</summary>
+<summary><b>CBS</b> · CBS (9 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
@@ -774,7 +1382,6 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Health | https://www.cbsnews.com/latest/rss/health |
 | Entertainment | https://www.cbsnews.com/latest/rss/entertainment |
 | MoneyWatch | https://www.cbsnews.com/latest/rss/moneywatch |
-| CBS News investigates | https://www.cbsnews.com/feeds/rss/cbsnews_investigates.rss |
 | Opinion | https://www.cbsnews.com/feeds/rss/opinion.rss |
 
 </details>
@@ -835,26 +1442,11 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>TPM</b> · Talking Points Memo (1 feed)</summary>
-
-| Feed | URL |
-|------|-----|
-| All News | https://api.talkingpointsmemo.com/feed/all |
-
-</details>
-
-<details>
-<summary><b>CBN</b> · CBN News (12 feeds)</summary>
+<summary><b>CBN</b> · CBN News (6 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
 | RSS | https://www1.cbn.com/rss-cbn-articles-cbnnews.xml |
-| RSS - The Brody File | https://www1.cbn.com/rss-cbn-blogs-thebrodyfile.xml |
-| RSS - Jerusalem Dateline | https://www1.cbn.com/rss-cbn-blogs-jerusalemdateline.xml |
-| RSS - Hurd on the Web | https://www1.cbn.com/rss-cbn-blogs-hurdontheweb.xml |
-| RSS - Africa Matters | https://www1.cbn.com/rss-cbn-blogs-africamatters.xml |
-| RSS - World | https://www1.cbn.com/rss-cbn-news-world.xml |
-| RSS - US | https://www1.cbn.com/rss-cbn-news-US.xml |
 | RSS - Inside Israel | https://www1.cbn.com/rss-cbn-news-insideisrael.xml |
 | RSS - Politics | https://www1.cbn.com/rss-cbn-news-politics.xml |
 | RSS - Christian World News | https://www1.cbn.com/rss-cbn-news-christianworldnews.xml |
@@ -893,34 +1485,18 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 </details>
 
 <details>
-<summary><b>HUFFPOST</b> · Huffington Post (40 feeds)</summary>
+<summary><b>HUFFPOST</b> · Huffington Post (21 feeds)</summary>
 
 | Feed | URL |
 |------|-----|
-| Books | https://www.huffpost.com/section/books/feed |
-| Business | https://www.huffpost.com/section/business/feed |
 | Celebrity | https://www.huffpost.com/section/celebrity/feed |
-| College | https://www.huffpost.com/section/college/feed |
-| Comedy | https://www.huffpost.com/section/comedy/feed |
-| Crime | https://www.huffpost.com/section/crime/feed |
-| Culture & Arts | https://www.huffpost.com/section/arts/feed |
-| Divorce | https://www.huffpost.com/section/divorce/feed |
-| Education | https://www.huffpost.com/section/education/feed |
 | Entertainment | https://www.huffpost.com/section/entertainment/feed |
 | Environment | https://www.huffpost.com/section/green/feed |
-| Food & Drink | https://www.huffpost.com/section/taste/feed |
 | Health | https://www.huffpost.com/section/health/feed |
-| Home & Living | https://www.huffpost.com/section/huffpost-home/feed |
-| HuffPost Code | https://www.huffpost.com/section/huffpost-code/feed |
 | HuffPost Personal | https://www.huffpost.com/section/huffpost-personal/feed |
-| Impact | https://www.huffpost.com/section/impact/feed |
 | Media | https://www.huffpost.com/section/media/feed |
 | Money | https://www.huffpost.com/section/money/feed |
-| OWN | https://www.huffpost.com/section/own/feed |
-| Opinion | https://www.huffpost.com/section/opinion/feed |
-| Parenting | https://www.huffpost.com/section/parents/feed |
 | Politics | https://www.huffpost.com/section/politics/feed |
-| Post 50 | https://www.huffpost.com/section/fifty/feed |
 | Relationships | https://www.huffpost.com/section/relationships/feed |
 | Religion | https://www.huffpost.com/section/religion/feed |
 | Science | https://www.huffpost.com/section/science/feed |
@@ -928,39 +1504,12 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Style & Beauty | https://www.huffpost.com/section/style/feed |
 | TV & Film | https://www.huffpost.com/section/tv/feed |
 | Tech | https://www.huffpost.com/section/technology/feed |
-| Teen | https://www.huffpost.com/section/teen/feed |
 | Travel | https://www.huffpost.com/section/travel/feed |
 | U.S. News | https://www.huffpost.com/section/us-news/feed |
-| Weddings | https://www.huffpost.com/section/weddings/feed |
 | Weird News | https://www.huffpost.com/section/weird-news/feed |
 | Wellness | https://www.huffpost.com/section/healthy-living/feed |
 | Women | https://www.huffpost.com/section/women/feed |
-| Work/Life | https://www.huffpost.com/section/worklife/feed |
 | World News | https://www.huffpost.com/section/world-news/feed |
-
-</details>
-
-<details>
-<summary><b>gazette</b> · The Gazette (Colorado Springs) (16 feeds)</summary>
-
-| Feed | URL |
-|------|-----|
-| All Sections | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&f=rss&_ga=2.61934127.248520087.1564405260-227583218.1564405260 |
-| Local | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=news/local&f=rss |
-| Entertainment | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=arts-entertainment*&f=rss |
-| ColoradoSprings.com | https://gazette.com/search/?q=&app=calendar&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=calendar*&f=rss |
-| Event Calendar | https://gazette.com/search/?q=&app=calendar&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=calendar*&f=rss |
-| Dining Guide | http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=dining*&f=rss |
-| Cinema Guide | http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=movies*&f=rss |
-| Around Town | http://www.coloradosprings.com/common/rss/rss.phpCommunity+and+Culture |
-| Travel | http://www.coloradosprings.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=attractions*&f=rss |
-| Sports | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=sports*&f=rss |
-| Business | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=business*&f=rss |
-| Opinion | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=opinion*&f=rss |
-| Blogs | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=blogs*&f=rss |
-| OutThereColorado.com | http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=outthere*&f=rss |
-| CSFreshInk.com | http://www.csfreshink.com/activity/log/list?fmt=rss |
-| PikesPeakParent.com | http://gazette.com/rss/Parenting |
 
 </details>
 
