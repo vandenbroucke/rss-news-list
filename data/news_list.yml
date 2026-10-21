@@ -2741,3 +2741,9 @@
     src_name_long: "The Gazette (Colorado Springs)"
     name: " PikesPeakParent.com"
     src_country: "USA"
+  - 
+    URL: "https://joho-todai.com/pinterest-rss/"
+    src_name_short: "Joho no Todai"
+    src_name_long: "情報の灯台 (Joho no Todai)"
+    name: "All posts (Japanese; short excerpts)"
+    src_country: "JPN"

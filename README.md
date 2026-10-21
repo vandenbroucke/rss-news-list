@@ -1,5 +1,5 @@
 # RSS-news-list (Open Data)
-A carefully curated list of news sources that provide [RSS](https://en.wikipedia.org/wiki/RSS) news feeds. Currently the list contains **457** URLS from **52** distinct news sources, and **you can help** to add even more!
+A carefully curated list of news sources that provide [RSS](https://en.wikipedia.org/wiki/RSS) news feeds. Currently the list contains **458** URLS from **53** distinct news sources, and **you can help** to add even more!
 
 Data properties include:
 
@@ -531,6 +531,8 @@ YML|[https://raw.githubusercontent.com/vandenbroucke/rss-news-list/master/data/n
 	* [ OutThereColorado.com](http://www.gazette.com/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=outthere*&f=rss) 	 
 	* [ CSFreshInk.com](http://www.csfreshink.com/activity/log/list?fmt=rss) 	 
 	* [ PikesPeakParent.com](http://gazette.com/rss/Parenting) 	 
+* **Joho no Todai** | 情報の灯台 (Joho no Todai) (JPN)
+	* [All posts (Japanese; short excerpts)](https://joho-todai.com/pinterest-rss/) 	 
 
 
 
