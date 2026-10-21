@@ -50,22 +50,92 @@ function write_file_cb(err){
     if (err) throw err;
 }
 
+// Readable names for the ISO 3166-1 alpha-3 codes used in the list. Unknown codes fall back to the code itself.
+const country_names = {
+    AUS: "Australia",
+    BEL: "Belgium",
+    CAN: "Canada",
+    DEU: "Germany",
+    FRA: "France",
+    GBR: "United Kingdom",
+    IND: "India",
+    IRL: "Ireland",
+    JPN: "Japan",
+    QAT: "Qatar",
+    RUS: "Russia",
+    SGP: "Singapore",
+    USA: "United States",
+    ZAF: "South Africa"
+};
+
 /**
- * Generates markdown string of grouped news sources 
+ * Returns the heading title of a country, for example: United Kingdom (GBR)
+ * @param {String} country_code ISO 3166-1 alpha-3 Country code.
+ */
+function country_title(country_code){
+    return country_names[country_code] ? `${country_names[country_code]} (${country_code})` : country_code;
+}
+
+/**
+ * Converts a heading title to the anchor GitHub generates for it.
+ * @param {String} title Heading title.
+ */
+function heading_anchor(title){
+    return title.toLowerCase().replace(/[^\p{L}\p{N}\s-]/gu,"").trim().replace(/\s/g,"-");
+}
+
+/**
+ * Makes text safe to use inside a markdown table cell.
+ * @param {String} text Cell text.
+ */
+function table_cell(text){
+    return text.trim().replace(/\|/g,"\\|");
+}
+
+/**
+ * Groups news sources by country, sorted by country title.
+ * @param {Array} input_js Array of objects containing RSS news source information.
+ * @returns {Array} [country_code, sources] pairs.
+ */
+function group_by_country(input_js){
+    return Object.entries(groupBy(input_js,"src_country"))
+        .sort(([a],[b]) => country_title(a).localeCompare(country_title(b)));
+}
+
+/**
+ * Generates a markdown table body with the number of sources and feeds per country.
+ * @param {Array} input_js Array of objects containing RSS news source information.
+ */
+function generate_country_overview_markdown(input_js){
+    return group_by_country(input_js).map(([country_code, sources]) => {
+        let title = country_title(country_code),
+            source_count = Object.keys(groupBy(sources,"src_name_short")).length;
+        return `| [${title}](#${heading_anchor(title)}) | ${source_count} | ${sources.length} |`;
+    }).join("\n");
+}
+
+/**
+ * Generates markdown string of news sources grouped by country, with a collapsible feed table per source.
  * @param {Array} input_js Array of objects containing RSS news source information.
  */
 function generate_news_list_markdown(input_js){
-    let grouped_news_sources = groupBy(input_js,"src_name_short"),
-        markdown_list ="";
+    let markdown_list ="";
 
-    for (const [source_name_short, sources] of Object.entries(grouped_news_sources)) {
-        
-        markdown_list+= `* **${source_name_short}** | ${sources[0].src_name_long} (${sources[0].src_country})\n`;
+    for (const [country_code, country_sources] of group_by_country(input_js)) {
+        markdown_list+= `### ${country_title(country_code)}\n\n`;
 
+        for (const [source_name_short, sources] of Object.entries(groupBy(country_sources,"src_name_short"))) {
+            let feed_label = sources.length === 1 ? "feed" : "feeds";
 
-        sources.forEach(s => {
-            markdown_list+= `\t* [${s.name}](${s.URL}) \t \n`;
-        });
+            markdown_list+= `<details>\n<summary><b>${source_name_short.trim()}</b> · ${sources[0].src_name_long.trim()} (${sources.length} ${feed_label})</summary>\n\n`;
+            markdown_list+= "| Feed | URL |\n|------|-----|\n";
+
+            sources.forEach(s => {
+                markdown_list+= `| ${table_cell(s.name)} | ${s.URL} |\n`;
+            });
+
+            markdown_list+= "\n</details>\n\n";
+        }
     }
 
     return markdown_list;
@@ -86,6 +156,8 @@ function generate_documentation(input_js){
         let filled_text =  template_format(template_text,{
             URL_count:URL_count,
             source_count:source_count,
+            country_count:group_by_country(input_js).length,
+            country_overview:generate_country_overview_markdown(input_js),
             news_list:generate_news_list_markdown(input_js)
         })            
 
