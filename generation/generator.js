@@ -50,38 +50,54 @@ function write_file_cb(err){
     if (err) throw err;
 }
 
-// Readable names for the ISO 3166-1 alpha-3 codes used in the list. Unknown codes fall back to the code itself.
-const country_names = {
-    AUS: "Australia",
-    BEL: "Belgium",
-    CAN: "Canada",
-    DEU: "Germany",
-    FRA: "France",
-    GBR: "United Kingdom",
-    IND: "India",
-    IRL: "Ireland",
-    JPN: "Japan",
-    QAT: "Qatar",
-    RUS: "Russia",
-    SGP: "Singapore",
-    USA: "United States",
-    ZAF: "South Africa"
+// Readable names and ISO 3166-1 alpha-2 codes (used for the flag emoji) for the alpha-3 codes used in the list.
+// Unknown codes fall back to the code itself, without a flag.
+const countries = {
+    AUS: { name: "Australia", alpha2: "AU" },
+    BEL: { name: "Belgium", alpha2: "BE" },
+    CAN: { name: "Canada", alpha2: "CA" },
+    DEU: { name: "Germany", alpha2: "DE" },
+    FRA: { name: "France", alpha2: "FR" },
+    GBR: { name: "United Kingdom", alpha2: "GB" },
+    IND: { name: "India", alpha2: "IN" },
+    IRL: { name: "Ireland", alpha2: "IE" },
+    JPN: { name: "Japan", alpha2: "JP" },
+    QAT: { name: "Qatar", alpha2: "QA" },
+    RUS: { name: "Russia", alpha2: "RU" },
+    SGP: { name: "Singapore", alpha2: "SG" },
+    USA: { name: "United States", alpha2: "US" },
+    ZAF: { name: "South Africa", alpha2: "ZA" }
 };
 
 /**
- * Returns the heading title of a country, for example: United Kingdom (GBR)
+ * Returns the title of a country, for example: United Kingdom (GBR)
  * @param {String} country_code ISO 3166-1 alpha-3 Country code.
  */
 function country_title(country_code){
-    return country_names[country_code] ? `${country_names[country_code]} (${country_code})` : country_code;
+    return countries[country_code] ? `${countries[country_code].name} (${country_code})` : country_code;
+}
+
+/**
+ * Returns the title of a country prefixed with its flag emoji, for example: 🇬🇧 United Kingdom (GBR)
+ * The flag is built from the two regional indicator symbols matching the alpha-2 code.
+ * @param {String} country_code ISO 3166-1 alpha-3 Country code.
+ */
+function country_heading(country_code){
+    if (!countries[country_code]) return country_title(country_code);
+
+    let flag = [...countries[country_code].alpha2]
+        .map(c => String.fromCodePoint(0x1F1E6 + c.charCodeAt(0) - 65))
+        .join("");
+    return `${flag} ${country_title(country_code)}`;
 }
 
 /**
  * Converts a heading title to the anchor GitHub generates for it.
+ * Emoji are dropped but their trailing space is kept, so "🇬🇧 United Kingdom (GBR)" becomes "-united-kingdom-gbr".
  * @param {String} title Heading title.
  */
 function heading_anchor(title){
-    return title.toLowerCase().replace(/[^\p{L}\p{N}\s-]/gu,"").trim().replace(/\s/g,"-");
+    return title.toLowerCase().replace(/[^\p{L}\p{N}\s-]/gu,"").replace(/\s/g,"-");
 }
 
 /**
@@ -108,7 +124,7 @@ function group_by_country(input_js){
  */
 function generate_country_overview_markdown(input_js){
     return group_by_country(input_js).map(([country_code, sources]) => {
-        let title = country_title(country_code),
+        let title = country_heading(country_code),
             source_count = Object.keys(groupBy(sources,"src_name_short")).length;
         return `| [${title}](#${heading_anchor(title)}) | ${source_count} | ${sources.length} |`;
     }).join("\n");
@@ -122,7 +138,7 @@ function generate_news_list_markdown(input_js){
     let markdown_list ="";
 
     for (const [country_code, country_sources] of group_by_country(input_js)) {
-        markdown_list+= `### ${country_title(country_code)}\n\n`;
+        markdown_list+= `### ${country_heading(country_code)}\n\n`;
 
         for (const [source_name_short, sources] of Object.entries(groupBy(country_sources,"src_name_short"))) {
             let feed_label = sources.length === 1 ? "feed" : "feeds";

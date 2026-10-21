@@ -39,22 +39,22 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Country | Sources | Feeds |
 |---------|--------:|------:|
-| [Australia (AUS)](#australia-aus) | 2 | 24 |
-| [Belgium (BEL)](#belgium-bel) | 3 | 3 |
-| [Canada (CAN)](#canada-can) | 4 | 33 |
-| [France (FRA)](#france-fra) | 2 | 13 |
-| [Germany (DEU)](#germany-deu) | 1 | 6 |
-| [India (IND)](#india-ind) | 1 | 20 |
-| [Ireland (IRL)](#ireland-irl) | 1 | 7 |
-| [Japan (JPN)](#japan-jpn) | 1 | 1 |
-| [Qatar (QAT)](#qatar-qat) | 1 | 1 |
-| [Russia (RUS)](#russia-rus) | 2 | 2 |
-| [Singapore (SGP)](#singapore-sgp) | 2 | 21 |
-| [South Africa (ZAF)](#south-africa-zaf) | 1 | 12 |
-| [United Kingdom (GBR)](#united-kingdom-gbr) | 10 | 127 |
-| [United States (USA)](#united-states-usa) | 22 | 188 |
+| [🇦🇺 Australia (AUS)](#-australia-aus) | 2 | 24 |
+| [🇧🇪 Belgium (BEL)](#-belgium-bel) | 3 | 3 |
+| [🇨🇦 Canada (CAN)](#-canada-can) | 4 | 33 |
+| [🇫🇷 France (FRA)](#-france-fra) | 2 | 13 |
+| [🇩🇪 Germany (DEU)](#-germany-deu) | 1 | 6 |
+| [🇮🇳 India (IND)](#-india-ind) | 1 | 20 |
+| [🇮🇪 Ireland (IRL)](#-ireland-irl) | 1 | 7 |
+| [🇯🇵 Japan (JPN)](#-japan-jpn) | 1 | 1 |
+| [🇶🇦 Qatar (QAT)](#-qatar-qat) | 1 | 1 |
+| [🇷🇺 Russia (RUS)](#-russia-rus) | 2 | 2 |
+| [🇸🇬 Singapore (SGP)](#-singapore-sgp) | 2 | 21 |
+| [🇿🇦 South Africa (ZAF)](#-south-africa-zaf) | 1 | 12 |
+| [🇬🇧 United Kingdom (GBR)](#-united-kingdom-gbr) | 10 | 127 |
+| [🇺🇸 United States (USA)](#-united-states-usa) | 22 | 188 |
 
-### Australia (AUS)
+### 🇦🇺 Australia (AUS)
 
 <details>
 <summary><b>SMH</b> · Sydney Morning Herald (14 feeds)</summary>
@@ -96,7 +96,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Belgium (BEL)
+### 🇧🇪 Belgium (BEL)
 
 <details>
 <summary><b>Europa</b> · Europa (1 feed)</summary>
@@ -125,7 +125,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Canada (CAN)
+### 🇨🇦 Canada (CAN)
 
 <details>
 <summary><b>CBC</b> · Canadian Broadcasting Corporation (1 feed)</summary>
@@ -192,7 +192,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### France (FRA)
+### 🇫🇷 France (FRA)
 
 <details>
 <summary><b>Euronews</b> · Euronews (1 feed)</summary>
@@ -223,7 +223,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Germany (DEU)
+### 🇩🇪 Germany (DEU)
 
 <details>
 <summary><b>Spiegel</b> · Spiegel Online (6 feeds)</summary>
@@ -239,7 +239,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### India (IND)
+### 🇮🇳 India (IND)
 
 <details>
 <summary><b>IndiaTimes</b> · India Times (20 feeds)</summary>
@@ -269,7 +269,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Ireland (IRL)
+### 🇮🇪 Ireland (IRL)
 
 <details>
 <summary><b>BreakingNews</b> · Breaking News (7 feeds)</summary>
@@ -286,7 +286,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Japan (JPN)
+### 🇯🇵 Japan (JPN)
 
 <details>
 <summary><b>Joho no Todai</b> · 情報の灯台 (Joho no Todai) (1 feed)</summary>
@@ -297,7 +297,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Qatar (QAT)
+### 🇶🇦 Qatar (QAT)
 
 <details>
 <summary><b>AlJazeera</b> · Al Jazeera News (1 feed)</summary>
@@ -308,7 +308,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Russia (RUS)
+### 🇷🇺 Russia (RUS)
 
 <details>
 <summary><b>Sputnik</b> · Sputnik International (1 feed)</summary>
@@ -328,7 +328,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### Singapore (SGP)
+### 🇸🇬 Singapore (SGP)
 
 <details>
 <summary><b>CNA</b> · Channel News Asia (6 feeds)</summary>
@@ -367,7 +367,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### South Africa (ZAF)
+### 🇿🇦 South Africa (ZAF)
 
 <details>
 <summary><b>News24</b> · News24 (12 feeds)</summary>
@@ -389,7 +389,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### United Kingdom (GBR)
+### 🇬🇧 United Kingdom (GBR)
 
 <details>
 <summary><b>BBC</b> · British Broadcasting Corporation (20 feeds)</summary>
@@ -598,7 +598,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 </details>
 
-### United States (USA)
+### 🇺🇸 United States (USA)
 
 <details>
 <summary><b>CNN</b> · Cable News Network (20 feeds)</summary>
