@@ -1,7 +1,7 @@
 # RSS-news-list (Open Data)
 A carefully curated list of news sources that provide [RSS](https://en.wikipedia.org/wiki/RSS) news feeds.
 
-> Currently the list contains **517** feed URLs from **109** distinct news sources in **28** countries, and **you can help** to add even more!
+> Currently the list contains **519** feed URLs from **111** distinct news sources in **28** countries, and **you can help** to add even more!
 
 **Contents:** [Data URLs](#data-urls) · [Data properties](#data-properties) · [Contribute](#contribute) · [News list](#news-list)
 
@@ -46,7 +46,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | [🇨🇿 Czechia (CZE)](#-czechia-cze) | 2 | 2 |
 | [🇩🇰 Denmark (DNK)](#-denmark-dnk) | 2 | 6 |
 | [🇫🇮 Finland (FIN)](#-finland-fin) | 2 | 3 |
-| [🇫🇷 France (FRA)](#-france-fra) | 8 | 44 |
+| [🇫🇷 France (FRA)](#-france-fra) | 10 | 46 |
 | [🇩🇪 Germany (DEU)](#-germany-deu) | 10 | 54 |
 | [🇭🇺 Hungary (HUN)](#-hungary-hun) | 2 | 2 |
 | [🇮🇳 India (IND)](#-india-ind) | 1 | 19 |
@@ -410,6 +410,24 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 |------|-----|
 | English | https://www.rfi.fr/en/rss |
 | Français | https://www.rfi.fr/fr/rss |
+
+</details>
+
+<details>
+<summary><b>La Gazette IA</b> · La Gazette IA (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Actualités en intelligence artificielle | https://lagazetteia.fr/feed/ |
+
+</details>
+
+<details>
+<summary><b>La Gazette Crypto</b> · La Gazette Crypto (1 feed)</summary>
+
+| Feed | URL |
+|------|-----|
+| Actualités crypto et blockchain | https://lagazettecrypto.fr/feed/ |
 
 </details>
 

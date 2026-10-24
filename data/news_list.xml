@@ -3617,3 +3617,17 @@
     <name>All news</name>
     <src_country>SRB</src_country>
 </516>
+<517>
+    <URL>https://lagazetteia.fr/feed/</URL>
+    <src_name_short>La Gazette IA</src_name_short>
+    <src_name_long>La Gazette IA</src_name_long>
+    <name>Actualités en intelligence artificielle</name>
+    <src_country>FRA</src_country>
+</517>
+<518>
+    <URL>https://lagazettecrypto.fr/feed/</URL>
+    <src_name_short>La Gazette Crypto</src_name_short>
+    <src_name_long>La Gazette Crypto</src_name_long>
+    <name>Actualités crypto et blockchain</name>
+    <src_country>FRA</src_country>
+</518>
