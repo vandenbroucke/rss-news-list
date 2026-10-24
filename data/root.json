@@ -3617,5 +3617,19 @@
     "src_name_long": "Balkan Insight (BIRN)",
     "name": "All news",
     "src_country": "SRB"
+  },
+  {
+    "URL": "https://lagazetteia.fr/feed/",
+    "src_name_short": "La Gazette IA",
+    "src_name_long": "La Gazette IA",
+    "name": "Actualités en intelligence artificielle",
+    "src_country": "FRA"
+  },
+  {
+    "URL": "https://lagazettecrypto.fr/feed/",
+    "src_name_short": "La Gazette Crypto",
+    "src_name_long": "La Gazette Crypto",
+    "name": "Actualités crypto et blockchain",
+    "src_country": "FRA"
   }
 ]
