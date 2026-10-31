@@ -3631,5 +3631,12 @@
     "src_name_long": "La Gazette Crypto",
     "name": "Actualités crypto et blockchain",
     "src_country": "FRA"
+  },
+  {
+    "URL": "https://uudised.ai/feed.xml",
+    "src_name_short": "Uudised.ai",
+    "src_name_long": "Uudised.ai",
+    "name": "Estonian news (AI-produced)",
+    "src_country": "EST"
   }
 ]
