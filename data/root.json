@@ -308,7 +308,7 @@
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Africa.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Africa",
@@ -378,7 +378,7 @@
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Energy & Environment",
@@ -413,42 +413,42 @@
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Baseball.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Baseball",
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Golf.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Golf",
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Hockey.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Hockey",
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Soccer",
     "src_country": "USA"
   },
   {
-    "URL": "https://www.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+    "URL": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
     "src_name_short": "NYT",
     "src_name_long": "New York Times",
     "name": "Tennis",
     "src_country": "USA"
   },
   {
-    "URL": "http://www.spiegel.de/international/index.rss",
+    "URL": "https://www.spiegel.de/international/index.rss",
     "src_name_short": "Spiegel",
     "src_name_long": "Spiegel Online",
     "name": "All News",
@@ -1372,42 +1372,42 @@
     "src_country": "USA"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/home.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/home.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "Home",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/uk.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/uk.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "UK",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/world.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/world.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "World",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/us.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/us.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "US",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/business.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/business.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "Business",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/politics.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/politics.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "Politics",
@@ -1421,14 +1421,14 @@
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/entertainment.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/entertainment.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "Entertainment",
     "src_country": "GBR"
   },
   {
-    "URL": "http://feeds.skynews.com/feeds/rss/strange.xml",
+    "URL": "https://feeds.skynews.com/feeds/rss/strange.xml",
     "src_name_short": "SkyNews",
     "src_name_long": "Sky News",
     "name": "Strange News",
@@ -1848,7 +1848,7 @@
     "src_country": "USA"
   },
   {
-    "URL": "http://feeds.breakingnews.ie/bntopstories",
+    "URL": "https://feeds.breakingnews.ie/bntopstories",
     "src_name_short": "BreakingNews",
     "src_name_long": "Breaking News",
     "name": "TopStories",
@@ -1869,7 +1869,7 @@
     "src_country": "IRL"
   },
   {
-    "URL": "http://feeds.breakingnews.ie/bnbusiness",
+    "URL": "https://feeds.breakingnews.ie/bnbusiness",
     "src_name_short": "BreakingNews",
     "src_name_long": "Breaking News",
     "name": "Business",

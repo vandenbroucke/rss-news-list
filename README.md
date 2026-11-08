@@ -438,7 +438,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Feed | URL |
 |------|-----|
-| All News | http://www.spiegel.de/international/index.rss |
+| All News | https://www.spiegel.de/international/index.rss |
 | Germany News | http://www.spiegel.de/international/germany/index.rss |
 | European News | http://www.spiegel.de/international/europe/index.rss |
 | World News | http://www.spiegel.de/international/world/index.rss |
@@ -623,10 +623,10 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Feed | URL |
 |------|-----|
-| TopStories | http://feeds.breakingnews.ie/bntopstories |
+| TopStories | https://feeds.breakingnews.ie/bntopstories |
 | Ireland | http://feeds.breakingnews.ie/bnireland |
 | World | http://feeds.breakingnews.ie/bnworld |
-| Business | http://feeds.breakingnews.ie/bnbusiness |
+| Business | https://feeds.breakingnews.ie/bnbusiness |
 | #Discover | http://feeds.breakingnews.ie/bndiscover |
 
 </details>
@@ -1242,15 +1242,15 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 
 | Feed | URL |
 |------|-----|
-| Home | http://feeds.skynews.com/feeds/rss/home.xml |
-| UK | http://feeds.skynews.com/feeds/rss/uk.xml |
-| World | http://feeds.skynews.com/feeds/rss/world.xml |
-| US | http://feeds.skynews.com/feeds/rss/us.xml |
-| Business | http://feeds.skynews.com/feeds/rss/business.xml |
-| Politics | http://feeds.skynews.com/feeds/rss/politics.xml |
+| Home | https://feeds.skynews.com/feeds/rss/home.xml |
+| UK | https://feeds.skynews.com/feeds/rss/uk.xml |
+| World | https://feeds.skynews.com/feeds/rss/world.xml |
+| US | https://feeds.skynews.com/feeds/rss/us.xml |
+| Business | https://feeds.skynews.com/feeds/rss/business.xml |
+| Politics | https://feeds.skynews.com/feeds/rss/politics.xml |
 | Technology | http://feeds.skynews.com/feeds/rss/technology.xml |
-| Entertainment | http://feeds.skynews.com/feeds/rss/entertainment.xml |
-| Strange News | http://feeds.skynews.com/feeds/rss/strange.xml |
+| Entertainment | https://feeds.skynews.com/feeds/rss/entertainment.xml |
+| Strange News | https://feeds.skynews.com/feeds/rss/strange.xml |
 
 </details>
 
@@ -1310,7 +1310,7 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Feed | URL |
 |------|-----|
 | World | https://www.nytimes.com/services/xml/rss/nyt/World.xml |
-| Africa | https://www.nytimes.com/services/xml/rss/nyt/Africa.xml |
+| Africa | https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml |
 | Americas | https://www.nytimes.com/services/xml/rss/nyt/Americas.xml |
 | Asia Pacific | https://www.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml |
 | Europe | https://www.nytimes.com/services/xml/rss/nyt/Europe.xml |
@@ -1320,16 +1320,16 @@ Feeds are grouped by country, then by source. Click a source to expand its feeds
 | Politics | https://www.nytimes.com/services/xml/rss/nyt/Politics.xml |
 | N.Y./Region | https://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml |
 | Business | http://feeds.nytimes.com/nyt/rss/Business |
-| Energy & Environment | https://www.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml |
+| Energy & Environment | https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml |
 | Economy | https://www.nytimes.com/services/xml/rss/nyt/Economy.xml |
 | DealBook | https://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml |
 | Media & Advertising | https://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml |
 | Technology | http://feeds.nytimes.com/nyt/rss/Technology |
-| Baseball | https://www.nytimes.com/services/xml/rss/nyt/Baseball.xml |
-| Golf | https://www.nytimes.com/services/xml/rss/nyt/Golf.xml |
-| Hockey | https://www.nytimes.com/services/xml/rss/nyt/Hockey.xml |
-| Soccer | https://www.nytimes.com/services/xml/rss/nyt/Soccer.xml |
-| Tennis | https://www.nytimes.com/services/xml/rss/nyt/Tennis.xml |
+| Baseball | https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml |
+| Golf | https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml |
+| Hockey | https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml |
+| Soccer | https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml |
+| Tennis | https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml |
 
 </details>
 

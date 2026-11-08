@@ -307,7 +307,7 @@
     <src_country>USA</src_country>
 </43>
 <44>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Africa.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Africa</name>
@@ -377,7 +377,7 @@
     <src_country>USA</src_country>
 </53>
 <54>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Energy &amp; Environment</name>
@@ -412,42 +412,42 @@
     <src_country>USA</src_country>
 </58>
 <59>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Baseball.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Baseball</name>
     <src_country>USA</src_country>
 </59>
 <60>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Golf.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Golf</name>
     <src_country>USA</src_country>
 </60>
 <61>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Hockey.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Hockey</name>
     <src_country>USA</src_country>
 </61>
 <62>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Soccer.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Soccer</name>
     <src_country>USA</src_country>
 </62>
 <63>
-    <URL>https://www.nytimes.com/services/xml/rss/nyt/Tennis.xml</URL>
+    <URL>https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml</URL>
     <src_name_short>NYT</src_name_short>
     <src_name_long>New York Times</src_name_long>
     <name>Tennis</name>
     <src_country>USA</src_country>
 </63>
 <64>
-    <URL>http://www.spiegel.de/international/index.rss</URL>
+    <URL>https://www.spiegel.de/international/index.rss</URL>
     <src_name_short>Spiegel</src_name_short>
     <src_name_long>Spiegel Online</src_name_long>
     <name>All News</name>
@@ -1371,42 +1371,42 @@
     <src_country>USA</src_country>
 </195>
 <196>
-    <URL>http://feeds.skynews.com/feeds/rss/home.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/home.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>Home</name>
     <src_country>GBR</src_country>
 </196>
 <197>
-    <URL>http://feeds.skynews.com/feeds/rss/uk.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/uk.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>UK</name>
     <src_country>GBR</src_country>
 </197>
 <198>
-    <URL>http://feeds.skynews.com/feeds/rss/world.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/world.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>World</name>
     <src_country>GBR</src_country>
 </198>
 <199>
-    <URL>http://feeds.skynews.com/feeds/rss/us.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/us.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>US</name>
     <src_country>GBR</src_country>
 </199>
 <200>
-    <URL>http://feeds.skynews.com/feeds/rss/business.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/business.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>Business</name>
     <src_country>GBR</src_country>
 </200>
 <201>
-    <URL>http://feeds.skynews.com/feeds/rss/politics.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/politics.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>Politics</name>
@@ -1420,14 +1420,14 @@
     <src_country>GBR</src_country>
 </202>
 <203>
-    <URL>http://feeds.skynews.com/feeds/rss/entertainment.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/entertainment.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>Entertainment</name>
     <src_country>GBR</src_country>
 </203>
 <204>
-    <URL>http://feeds.skynews.com/feeds/rss/strange.xml</URL>
+    <URL>https://feeds.skynews.com/feeds/rss/strange.xml</URL>
     <src_name_short>SkyNews</src_name_short>
     <src_name_long>Sky News</src_name_long>
     <name>Strange News</name>
@@ -1847,7 +1847,7 @@
     <src_country>USA</src_country>
 </263>
 <264>
-    <URL>http://feeds.breakingnews.ie/bntopstories</URL>
+    <URL>https://feeds.breakingnews.ie/bntopstories</URL>
     <src_name_short>BreakingNews</src_name_short>
     <src_name_long>Breaking News</src_name_long>
     <name>TopStories</name>
@@ -1868,7 +1868,7 @@
     <src_country>IRL</src_country>
 </266>
 <267>
-    <URL>http://feeds.breakingnews.ie/bnbusiness</URL>
+    <URL>https://feeds.breakingnews.ie/bnbusiness</URL>
     <src_name_short>BreakingNews</src_name_short>
     <src_name_long>Breaking News</src_name_long>
     <name>Business</name>
