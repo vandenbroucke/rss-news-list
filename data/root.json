@@ -3631,5 +3631,12 @@
     "src_name_long": "La Gazette Crypto",
     "name": "Actualités crypto et blockchain",
     "src_country": "FRA"
+  },
+  {
+    "URL": "https://aihot.news/feed/daily.xml",
+    "src_name_short": "AIHOT",
+    "src_name_long": "AIHOT",
+    "name": "AIHOT Daily (Chinese)",
+    "src_country": "CHN"
   }
 ]
